@@ -1,0 +1,6 @@
+Processor Brand:GenuineIntel
+Processor:Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz
+Cache Memory:
+L1 cache:63 line size, 0 partitions, 7 ways, 63 sets, 32768 bytes total
+L2 cache:63 line size, 0 partitions, 3 ways, 1023 sets, 262144 bytes total
+L3 cache:63 line size, 0 partitions, 11 ways, 12287 sets, 9437184 bytes total

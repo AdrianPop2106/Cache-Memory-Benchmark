@@ -1,0 +1,29 @@
+﻿  Source.cpp
+C:\Users\Ady\Desktop\Chestii_Faculta\SSC\Proiect\Proiect\Proiect\Source.cpp(17,25): warning C4244: 'argument': conversion from '__int64' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\Ady\Desktop\Chestii_Faculta\SSC\Proiect\Proiect\Proiect\Source.cpp(98,34): warning C4244: '+=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\Ady\Desktop\Chestii_Faculta\SSC\Proiect\Proiect\Proiect\Source.cpp(108,13): warning C4244: 'initializing': conversion from '_Rep' to 'int', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\Ady\Desktop\Chestii_Faculta\SSC\Proiect\Proiect\Proiect\Source.cpp(133,29): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Ady\Desktop\Chestii_Faculta\SSC\Proiect\Proiect\Proiect\Source.cpp(92,6): warning C4101: 'buffer': unreferenced local variable
+C:\Users\Ady\Desktop\Chestii_Faculta\SSC\Proiect\Proiect\Proiect\Source.cpp(167,28): warning C4244: '=': conversion from '_Rep' to 'int', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\Ady\Desktop\Chestii_Faculta\SSC\Proiect\Proiect\Proiect\Source.cpp(213,28): warning C4244: '+=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\Ady\Desktop\Chestii_Faculta\SSC\Proiect\Proiect\Proiect\Source.cpp(225,13): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+C:\Users\Ady\Desktop\Chestii_Faculta\SSC\Proiect\Proiect\Proiect\Source.cpp(228,28): warning C4244: '=': conversion from '_Rep' to 'int', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\Ady\Desktop\Chestii_Faculta\SSC\Proiect\Proiect\Proiect\Source.cpp(211,23): warning C4101: 'buffer': unreferenced local variable
+C:\Users\Ady\Desktop\Chestii_Faculta\SSC\Proiect\Proiect\Proiect\Source.cpp(350,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Proiect.vcxproj -> C:\Users\Ady\Desktop\Chestii_Faculta\SSC\Proiect\Proiect\Debug\Proiect.exe
